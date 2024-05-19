@@ -1,0 +1,7 @@
+## Interface: 40400
+## Title: Saddle Up
+## Author: xenr1k
+## Version: 1.0.0
+## SavedVariables: SaddleUpOptions
+
+Saddle Up.lua
